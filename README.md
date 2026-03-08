@@ -1,7 +1,5 @@
 # 🍣 THARA POS - Japanese Restaurant Point of Sale System
-
-![Project Banner/Screenshot](ใส่ลิงก์รูปภาพหน้าจอหลักของระบบคุณที่นี่)
-
+<img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/2d173d81-0804-4158-8368-94417be7552f" />
 > A modern, full-stack Point of Sale (POS) system designed for a Japanese restaurant. This project is a complete revamp of my sophomore year university project, rebuilt with modern web technologies, industry-standard security practices, and containerized database.
 
 ## Key Features
@@ -85,6 +83,20 @@ The system automatically generates default users on the first startup. You can u
 * **Password:** `cashier123`
 
 ### Screenshots
+Flow Dashboard
+![Animation](https://github.com/user-attachments/assets/bc9a043c-40e6-4811-b7d7-ba949c1eab26)
+
+POS Dashboard
+<img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/fd90dd1a-43ee-428b-8aee-f41cf7bdb708" />
+
+Admin Dashboard
+<img width="1920" height="1080" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/b4fe8489-fcb6-4775-9421-af97c12000c7" />
+
+Product Form Modal
+<img width="1920" height="1080" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/beff52ea-5247-4ceb-a492-c602d91d56e6" />
+
+Login Page
+<img width="1920" height="1080" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/26a29a14-5ecc-4034-8175-e15fea310f83" />
 
 
 ### What I Learned
